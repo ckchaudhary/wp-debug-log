@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name: RB Debug Log
+ * Plugin URI: https://github.com/ckchaudhary/wp-debug-log
  * Description: Easy logging feature for development/debugging.
  * Version: 1.0.0
  * Author: ckchaudhary
